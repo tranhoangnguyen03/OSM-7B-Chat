@@ -1,6 +1,6 @@
 # OSM-7B-Chat
 
-This is an interactive chat app built with Streamlit to demonstrate conversational AI models. 
+This is an interactive chat app built with Streamlit to demonstrate conversational AI models. Try it on on (Streamlit Cloud app[https://tranhoangnguyen03-osm-7b-chat-app-6yihj6.streamlit.app/]
 
 ## Features
 

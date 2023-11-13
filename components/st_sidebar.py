@@ -15,7 +15,7 @@ def about_the_app():
         st.markdown("""
         This app provides a test bed for a variety of Mistral models. These models are small and can be deployed easily on Google Colab for no cost. Use this app to quickly test them out!
                     
-        Should you have any queries or suggestions, feel free to raise an issue on the project [GitHub repository](https://github.com/tranhoangnguyen03/Pydantic_to_BNF_Grammar) or send me an [email](tranhoangnguyen03@gmail.com).
+        Should you have any queries or suggestions, feel free to raise an issue on the project [GitHub repository](https://github.com/tranhoangnguyen03/OSM-7B-Chat) or send me an [email](tranhoangnguyen03@gmail.com).
         
         Thank you and have fun!
         """)
